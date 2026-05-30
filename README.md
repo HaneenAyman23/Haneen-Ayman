@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Pink wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB,FFB3C6,FF99AC&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=5A5A5A&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=9c7b6e" />
+<!-- Pink waves with cache-busting timestamp -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB,FFB3C6,FF99AC&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=5A5A5A&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=9c7b6e&t=123456" />
 
 <br/>
 
@@ -10,11 +10,11 @@
 
 <br/>
 
-<!-- Black buttons – no emojis -->
+<!-- Black buttons using inline styles (GitHub supports this) -->
 <p>
-  <a href="https://haneenaymanportfolio.netlify.app/" style="background-color: #000000; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block; font-weight: normal; border: none;">Portfolio</a>
-  <a href="https://www.linkedin.com/in/haneen-ayman-240051387" style="background-color: #000000; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block; font-weight: normal; border: none;">LinkedIn</a>
-  <a href="mailto:haneenayman23@outlook.com" style="background-color: #000000; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block; font-weight: normal; border: none;">Email</a>
+  <a href="https://haneenaymanportfolio.netlify.app/" style="background-color: black; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block;">Portfolio</a>
+  <a href="https://www.linkedin.com/in/haneen-ayman-240051387" style="background-color: black; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block;">LinkedIn</a>
+  <a href="mailto:haneenayman23@outlook.com" style="background-color: black; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block;">Email</a>
 </p>
 
 </div>
