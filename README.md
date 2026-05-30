@@ -1,7 +1,18 @@
 <div align="center">
 
-<!-- Pink waves with cache-busting timestamp -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB,FFB3C6,FF99AC&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=5A5A5A&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=9c7b6e&t=123456" />
+<!-- Custom Pink Wave SVG Header -->
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pinkGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFC0CB" />
+      <stop offset="50%" stop-color="#FFB3C6" />
+      <stop offset="100%" stop-color="#FF99AC" />
+    </linearGradient>
+  </defs>
+  <path d="M0,150 C150,100 300,180 450,130 C600,80 750,170 900,120 C1050,70 1150,140 1200,100 L1200,200 L0,200 Z" fill="url(#pinkGrad)" />
+  <text x="50%" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" fill="#5A5A5A" font-weight="bold">Haneen Ayman Mohamed</text>
+  <text x="50%" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#9c7b6e">Business Information Systems · Galala University · 2027</text>
+</svg>
 
 <br/>
 
@@ -10,14 +21,13 @@
 
 <br/>
 
-<!-- Black buttons using inline styles (GitHub supports this) -->
 <p>
-    <a href="https://haneenaymanportfolio.netlify.app/"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> Portfolio </kbd></a>
-    <a href="https://www.linkedin.com/in/haneen-ayman-240051387"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> LinkedIn </kbd></a>
-    <a href="mailto:haneenayman23@outlook.com"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> Email </kbd></a>
-  </p>
-</div>
+  <a href="https://haneenaymanportfolio.netlify.app/" style="background-color: black; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block;">Portfolio</a>
+  <a href="https://www.linkedin.com/in/haneen-ayman-240051387" style="background-color: black; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block;">LinkedIn</a>
+  <a href="mailto:haneenayman23@outlook.com" style="background-color: black; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block;">Email</a>
+</p>
 
+</div>
 
 ---
 
