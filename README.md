@@ -12,11 +12,10 @@
 
 <!-- Black buttons using inline styles (GitHub supports this) -->
 <p>
-  <a href="https://haneenaymanportfolio.netlify.app/" style="background-color: black; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block;">Portfolio</a>
-  <a href="https://www.linkedin.com/in/haneen-ayman-240051387" style="background-color: black; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block;">LinkedIn</a>
-  <a href="mailto:haneenayman23@outlook.com" style="background-color: black; color: white; padding: 10px 18px; margin: 6px; text-decoration: none; border-radius: 30px; display: inline-block;">Email</a>
-</p>
-
+    <a href="https://haneenaymanportfolio.netlify.app/"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> Portfolio </kbd></a>
+    <a href="https://www.linkedin.com/in/haneen-ayman-240051387"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> LinkedIn </kbd></a>
+    <a href="mailto:haneenayman23@outlook.com"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> Email </kbd></a>
+  </p>
 </div>
 
 
