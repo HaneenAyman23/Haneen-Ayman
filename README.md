@@ -5,10 +5,11 @@
 
 <br/>
 
-*I build systems that connect people —*  
-*from organizational workflows to AI-powered tools.*
+*Turning data into decisions and systems into strategy —*  
+*specialized in data analytics and ERP systems.*
 
 <br/>
+
 
 <!-- Black buttons -->
 
