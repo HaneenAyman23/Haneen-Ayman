@@ -78,7 +78,6 @@ Developed a business and marketing plan for smart home solutions expansion. Cond
 | Claude Code 101 | Anthropic | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Claude%20code%20101%20Certificate.pdf) |
 | Introduction to Model Context Protocol (MCP) | Anthropic | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Introduction%20to%20MCP.pdf) |
 | Introduction to MS Excel | Microsoft | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Introduction%20to%20MS%20Excel%20Certficate.pdf) |
-
 ---
 
 <div align="center">
