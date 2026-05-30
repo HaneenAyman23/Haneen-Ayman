@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2b2b2b,c9847a,e8b5ae&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=f5e6e3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e8b5ae,c9847a,d4a0a0&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=2b2b2b&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=3d2318" />
 
 <br/>
 
@@ -9,11 +9,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio%20↗-c9847a?style=flat-square&labelColor=2b2b2b&color=c9847a)](https://haneenaymanportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20↗-ffffff?style=flat-square&labelColor=c9847a&color=c9847a)](https://haneenaymanportfolio.netlify.app/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20↗-c9847a?style=flat-square&logo=linkedin&logoColor=white&labelColor=2b2b2b&color=c9847a)](https://www.linkedin.com/in/haneen-ayman-240051387)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20↗-ffffff?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=c9847a&color=c9847a)](https://www.linkedin.com/in/haneen-ayman-240051387)
 &nbsp;
-[![Email](https://img.shields.io/badge/haneenayman23@outlook.com-c9847a?style=flat-square&logo=microsoftoutlook&logoColor=white&labelColor=2b2b2b&color=c9847a)](mailto:haneenayman23@outlook.com)
+[![Email](https://img.shields.io/badge/Email%20↗-ffffff?style=flat-square&logo=microsoftoutlook&logoColor=ffffff&labelColor=c9847a&color=c9847a)](mailto:haneenayman23@outlook.com)
 
 </div>
 
@@ -78,12 +78,13 @@ Developed a business and marketing plan for smart home solutions expansion. Cond
 | Claude Code 101 | Anthropic | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Claude%20code%20101%20Certificate.pdf) |
 | Introduction to Model Context Protocol (MCP) | Anthropic | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Introduction%20to%20MCP.pdf) |
 | Introduction to MS Excel | Microsoft | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Introduction%20to%20MS%20Excel%20Certficate.pdf) |
+
 ---
 
 <div align="center">
 
 *Driven by strategy, detail, and the ambition to lead with impact.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2b2b2b,c9847a,e8b5ae&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e8b5ae,c9847a,d4a0a0&height=120&section=footer" />
 
 </div>
