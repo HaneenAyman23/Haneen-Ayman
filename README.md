@@ -1,25 +1,28 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgODAwIDIwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNmNWU2ZTMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNlOGI1YWUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojYzk4NDdhIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8IS0tIEJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjYmcpIi8+CiAgPCEtLSBXYXZlIGJvdHRvbSAtLT4KICA8cGF0aCBkPSJNMCwxNDAgQzE1MCwxMTAgMzAwLDE3MCA0NTAsMTQwIEM2MDAsMTEwIDcwMCwxNjAgODAwLDEzMCBMODAwLDIwMCBMMCwyMDAgWiIgZmlsbD0iI2U4YjVhZSIgb3BhY2l0eT0iMC41Ii8+CiAgPHBhdGggZD0iTTAsMTYwIEMyMDAsMTMwIDQwMCwxODAgNjAwLDE1MCBDNzAwLDEzNSA3NTAsMTYwIDgwMCwxNTAgTDgwMCwyMDAgTDAsMjAwIFoiIGZpbGw9IiNjOTg0N2EiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gTmFtZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9Ijg1IiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iMzYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNmI0YzNiIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5IYW5lZW4gQXltYW4gTW9oYW1lZDwvdGV4dD4KICA8IS0tIFN1YnRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMTIwIiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5YzdiNmUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkJ1c2luZXNzIEluZm9ybWF0aW9uIFN5c3RlbXMgwrcgR2FsYWxhIFVuaXZlcnNpdHkgwrcgMjAyNzwvdGV4dD4KPC9zdmc+Cg==" width="800" alt="Haneen Ayman Mohamed"/>
+<!-- Pink wave gradient + gray name text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB,FFB3C6,FF99AC&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=5A5A5A&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=9c7b6e" />
 
 <br/>
 
-*I build systems that connect people —*
+*I build systems that connect people —*  
 *from organizational workflows to AI-powered tools.*
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio%20%E2%86%97-ffffff?style=for-the-badge&labelColor=1a0f0a&color=1a0f0a)](https://haneenaymanportfolio.netlify.app/)
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20%E2%86%97-ffffff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1a0f0a&color=1a0f0a)](https://www.linkedin.com/in/haneen-ayman-240051387)
- 
-[![Email](https://img.shields.io/badge/Email%20%E2%86%97-ffffff?style=for-the-badge&logo=microsoftoutlook&logoColor=ffffff&labelColor=1a0f0a&color=1a0f0a)](mailto:haneenayman23@outlook.com)
+<!-- Black buttons (replace # with your actual links) -->
+<div>
+  <a href="https://haneenaymanportfolio.netlify.app/" style="background-color: black; color: white; padding: 10px 20px; margin: 5px; text-decoration: none; border-radius: 8px; display: inline-block;"> Portfolio</a>
+  <a href="https://www.linkedin.com/in/haneen-ayman-240051387" style="background-color: black; color: white; padding: 10px 20px; margin: 5px; text-decoration: none; border-radius: 8px; display: inline-block;"> LinkedIn</a>
+  <a href="mailto:haneenayman23@outlook.com" style="background-color: black; color: white; padding: 10px 20px; margin: 5px; text-decoration: none; border-radius: 8px; display: inline-block;"> Email</a>
+</div>
 
 </div>
 
---
 
-## ❆ Experience
+---
+
+## ✦ Experience
 
 **Talent Management Vice Head — Recruitment** · Galala Rally Society
 *Oct 2025 – Present*
@@ -35,7 +38,7 @@ Developed a business and marketing plan for smart home solutions expansion. Cond
 
 ---
 
-## ❆ Languages & Tools
+## ✦ Languages & Tools
 
 **Business & Projects**
 `Business Analysis` `Project Management` `Feasibility Studies` `Event Management` `Stakeholder Management` `Process Improvement` `Cost Estimation`
@@ -54,14 +57,14 @@ Developed a business and marketing plan for smart home solutions expansion. Cond
 
 ---
 
-## ❆ Education
+## ✦ Education
 
 **Galala University** — Bachelor of Business Information Systems (BIS)
 *Faculty of Administrative Sciences · Galala, Suez, Egypt · 2023 – 2027*
 
 ---
 
-## ❆ Certifications
+## ✦ Certifications
 
 | Certificate | Issuer | Year | Link |
 |---|---|---|---|
@@ -77,5 +80,7 @@ Developed a business and marketing plan for smart home solutions expansion. Cond
 <div align="center">
 
 *Driven by strategy, detail, and the ambition to lead with impact.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f5e6e3,e8b5ae,c9847a&height=120&section=footer" />
 
 </div>
