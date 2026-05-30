@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e8b5ae,c9847a,d4a0a0&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=2b2b2b&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=3d2318" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f5e6e3,e8b5ae,c9847a&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=6b4c3b&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=9c7b6e" />
 
 <br/>
 
@@ -9,20 +9,14 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio%20↗-ffffff?style=flat-square&labelColor=c9847a&color=c9847a)](https://haneenaymanportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20↗-ffffff?style=for-the-badge&labelColor=1a0f0a&color=1a0f0a)](https://haneenaymanportfolio.netlify.app/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20↗-ffffff?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=c9847a&color=c9847a)](https://www.linkedin.com/in/haneen-ayman-240051387)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20↗-ffffff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1a0f0a&color=1a0f0a)](https://www.linkedin.com/in/haneen-ayman-240051387)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email%20↗-ffffff?style=flat-square&logo=microsoftoutlook&logoColor=ffffff&labelColor=c9847a&color=c9847a)](mailto:haneenayman23@outlook.com)
+[![Email](https://img.shields.io/badge/Email%20↗-ffffff?style=for-the-badge&logo=microsoftoutlook&logoColor=ffffff&labelColor=1a0f0a&color=1a0f0a)](mailto:haneenayman23@outlook.com)
 
 </div>
 
----
-
-## ✦ Currently Building
-
-**RecruitIQ AI** *(In Progress)*
-An AI-powered recruitment and career development platform for university students, fresh graduates, and student organization HR teams — combining resume analysis, applicant tracking, interview simulation, and analytics dashboards.
 
 ---
 
@@ -85,6 +79,6 @@ Developed a business and marketing plan for smart home solutions expansion. Cond
 
 *Driven by strategy, detail, and the ambition to lead with impact.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e8b5ae,c9847a,d4a0a0&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f5e6e3,e8b5ae,c9847a&height=120&section=footer" />
 
 </div>
