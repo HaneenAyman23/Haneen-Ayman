@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Pink waves + dusty pink name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB,FFB3C6,FF99AC&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=C9A9A6&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=9c7b6e" />
+<!-- Navy + Beige/Bronze waves -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2A44,8B7355,C4A882&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=C4A882&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=8B7355" />
 
 <br/>
 
@@ -10,14 +10,12 @@
 
 <br/>
 
-
 <!-- Black buttons -->
-
-  <p>
-    <a href="https://haneenaymanportfolio.netlify.app/"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> Portfolio </kbd></a>
-    <a href="https://www.linkedin.com/in/haneen-ayman-240051387"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> LinkedIn </kbd></a>
-    <a href="mailto:haneenayman23@outlook.com"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> Email </kbd></a>
-  </p>
+<p>
+  <a href="https://haneenaymanportfolio.netlify.app/"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> Portfolio </kbd></a>
+  <a href="https://www.linkedin.com/in/haneen-ayman-240051387"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> LinkedIn </kbd></a>
+  <a href="mailto:haneenayman23@outlook.com"><kbd style="background-color: black; color: white; padding: 10px 18px; border-radius: 30px; border: none;"> Email </kbd></a>
+</p>
 
 </div>
 
@@ -82,6 +80,7 @@ Developed a business and marketing plan for smart home solutions expansion. Cond
 
 *Driven by strategy, detail, and the ambition to lead with impact.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f5e6e3,e8b5ae,c9847a&height=120&section=footer" />
+<!-- Navy + Beige/Bronze footer waves -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2A44,8B7355,C4A882&height=120&section=footer" />
 
 </div>
