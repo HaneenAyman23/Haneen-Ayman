@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Top waves: Navy → Bronze → Beige (no gray) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2A44,8B7355,C4A882&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=C4A882&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=8B7355" />
+<!-- All Dark Navy Waves -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1A30,1A2A44,2C3E66&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=FFFFFF&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=D4C5A9" />
 
 <br/>
 
@@ -80,7 +80,7 @@ Developed a business and marketing plan for smart home solutions expansion. Cond
 
 *Driven by strategy, detail, and the ambition to lead with impact.*
 
-<!-- Bottom waves: Navy → Bronze → Beige (no gray) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A2A44,8B7355,C4A882&height=120&section=footer" />
+<!-- All Dark Navy Footer Waves -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1A30,1A2A44,2C3E66&height=120&section=footer" />
 
 </div>
