@@ -81,6 +81,6 @@ Developed a business and marketing plan for smart home solutions expansion. Cond
 *Driven by strategy, detail, and the ambition to lead with impact.*
 
 <!-- Light beige/cream footer waves -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EEEAE1,F7F5F0,ECE2D2&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EEEAE1&height=120&section=footer" />
 
 </div>
