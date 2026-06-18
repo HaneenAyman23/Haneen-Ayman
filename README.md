@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Dark navy waves + navy text (light navy for readability) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1A30,1A2A44,2C3E66&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=A8C4E0&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=A8C4E0" />
+<!-- Dark navy waves + slate-navy text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1A30,1A2A44,2C3E66&height=200&section=header&text=Haneen%20Ayman%20Mohamed&fontSize=40&fontColor=3D4F63&fontAlignY=45&desc=Business%20Information%20Systems%20%C2%B7%20Galala%20University%20%C2%B7%202027&descAlignY=65&descSize=15&descColor=3D4F63" />
 
 <br/>
 
