@@ -58,6 +58,20 @@ Coordinated design and deployment of AI-powered smart home systems. Conducted fe
 
 ---
 
+## ✦ Certifications
+
+| Certificate | Issuer | Date | Link |
+|---|---|---|---|
+| ASU Innovation Certificate | Arizona State University | 2024 | [View ↗](https://raw.githubusercontent.com/haneenayman66666-max/Profile-1/main/Arizona%20Innovation%20Certificate.pdf) |
+| Claude 101 | Anthropic | May 2026 | [View ↗](https://raw.githubusercontent.com/haneenayman66666-max/Profile-1/main/Claude%20101%20Certficate.pdf) |
+| AI Fluency Certificate | Anthropic | May 2026 | [View ↗](https://raw.githubusercontent.com/haneenayman66666-max/Profile-1/main/AI%20Fluency%20Certficate.pdf) |
+| Claude Code 101 | Anthropic | May 2026 | [View ↗](https://raw.githubusercontent.com/haneenayman66666-max/Profile-1/main/Claude%20code%20101%20Certificate.pdf) |
+| Introduction to MCP | Anthropic | May 2026 | [View ↗](https://raw.githubusercontent.com/haneenayman66666-max/Profile-1/main/Introduction%20to%20MCP.pdf) |
+| Introduction to MS Excel | Microsoft | May 2026 | [View ↗](https://raw.githubusercontent.com/haneenayman66666-max/Profile-1/main/Introduction%20to%20MS%20Excel%20Certficate.pdf) |
+| Google Analytics Certification | Google | June 2026 | [View ↗](https://raw.githubusercontent.com/haneenayman66666-max/Profile-1/main/Google%20Analytics%20Certificate.png) |
+
+---
+
 ## ✦ Skills
 
 **Talent Management & HR**  
