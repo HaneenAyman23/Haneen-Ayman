@@ -19,63 +19,77 @@
 
 </div>
 
----
-
 ## ✦ Experience
 
-**Talent Management Vice Head — Recruitment** · Galala Rally Society
-*Oct 2025 – Present*
+**Member** · TechTalk  
+*June 2026 – Present*  
+Active member of a global tech career community (400,000+ members). Engage in career development, data analytics, BIS, ERP, and AI discussions.
+
+**Talent Management Vice Head — Recruitment** · Galala Rally Society  
+*January 2025 – Present*  
 Led end-to-end recruitment campaigns — candidate sourcing, screening, interview coordination, and onboarding workflows using applicant tracking systems.
 
-**Content Creator Assistant** · GU Media, Galala University
-*Feb 2024 – Aug 2025*
+**Agritech Solution Creator and Developer** · Freelance · New Cairo, Egypt  
+*June 2025 – November 2025*  
+Designed a smart agriculture solution using IoT sensors and data analytics. Built an implementation roadmap from pilot to full deployment.
+
+**Volunteer** · AIESEC  
+*May 2024 – September 2025*  
+Contributed to global leadership development initiatives and cross-cultural exchange programmes within the world's largest youth-run organization.
+
+**Content Creator Assistant** · GU Media, Galala University  
+*September 2024 – June 2025*  
 Produced digital content and led event promotion campaigns across university platforms.
 
-**Smart Home Solutions Project Coordinator** · EL Halim Company
-*Jan 2024 – Mar 2024*
-Developed a business and marketing plan for smart home solutions expansion. Conducted IoT and home automation market research to identify strategic entry points.
+**Smart Home Solutions Project Coordinator** · EL Halim Company  
+*September 2023 – June 2024*  
+Coordinated design and deployment of AI-powered smart home systems. Conducted feasibility studies and cost estimates for fiber optic infrastructure.
 
 ---
 
-## ✦ Languages & Tools
+## ✦ Projects
 
-**Business & Projects**
-`Business Analysis` `Project Management` `Feasibility Studies` `Event Management` `Stakeholder Management` `Process Improvement` `Cost Estimation`
+| Project | Type | Tools | Repo |
+|---|---|---|---|
+| Smart Home Installation Analytics Pipeline | Data Analytics · BI | Excel · Python · Power BI | [↗](https://github.com/HaneenAyman23/smart-home-project) |
+| Smart Home E-commerce Website | Web Development | HTML5 · CSS3 · Bootstrap 5 · JS | [↗](https://github.com/HaneenAyman23/web-design-course-project) |
+| Diagnostic Analytics — Course Project | Data Analytics · EDA | Python · pandas · seaborn | [↗](https://github.com/HaneenAyman23/data-analytics-course-Project) |
 
-**Data & Analytics**
-`Power BI` `RapidMiner` `Data Visualization` `Statistical Analysis` `Dashboard Reporting` `BI Reporting`
 
-**Digital Tools**
-`Microsoft Office Suite` `Google Workspace` `Notion` `GitHub`
+---
 
-**Web Development**
-`HTML` `CSS` `JavaScript`
+## ✦ Skills
 
-**Languages**
+**Talent Management & HR**  
+`Recruitment Strategy` `Applicant Tracking` `Candidate Screening` `Onboarding` `HR Workflow Design` `Interview Coordination` `Talent Pipeline Management`
+
+**Business & Project Management**  
+`Project Planning` `Event Management` `Feasibility Studies` `Stakeholder Management` `Business Analysis` `Process Improvement` `Cost Estimation`
+
+**Data Analytics Tools**  
+`Power BI` `RapidMiner` `Microsoft Excel` `Google Sheets` `Data Visualization` `BI Reporting` `Statistical Analysis`
+
+**Frontend & Development Tools**  
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Bootstrap` `Figma` `GitHub` `VS Code` `Netlify`
+
+**Organizing Tools**  
+`Notion` `Jira` `ClickUp` `Microsoft Planner` `Google Workspace` `Microsoft Office Suite`
+
+**Soft Skills**  
+`Public Speaking` `Professional Writing` `Active Listening` `Team Facilitation` `Public Relations` `Cross-Cultural Collaboration` `Adaptability` `Leadership` `Critical Thinking` `Problem Solving` `Time Management` `Attention to Detail`
+
+**Languages**  
 `Arabic — Native` `English — Fluent / Near-Native`
 
 ---
 
 ## ✦ Education
 
-**Galala University** — Bachelor of Business Information Systems (BIS)
+**Galala University** — Bachelor of Business Information Systems (BIS)  
 *Faculty of Administrative Sciences · Galala, Suez, Egypt · 2023 – 2027*
 
 ---
 
-## ✦ Certifications
-
-| Certificate | Issuer | Year | Link |
-|---|---|---|---|
-| Certified Innovation Leader (CIL) | Arizona State University | 2024 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Arizona%20Innovation%20Certificate.pdf) |
-| AI Fluency Certificate | Anthropic | May 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/AI%20Fluency%20Certficate.pdf) |
-| Claude 101 | Anthropic | May 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Claude%20101%20Certficate.pdf) |
-| Claude Code 101 | Anthropic | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Claude%20code%20101%20Certificate.pdf) |
-| Introduction to Model Context Protocol (MCP) | Anthropic | May 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Introduction%20to%20MCP.pdf) |
-| Introduction to MS Excel | Microsoft | May 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Introduction%20to%20MS%20Excel%20Certficate.pdf) |
-| Google Analytics | Google | June 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Google%20Analytics%20Certificate.png) |
-
----
 
 <div align="center">
 
