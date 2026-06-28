@@ -51,9 +51,9 @@ Coordinated design and deployment of AI-powered smart home systems. Conducted fe
 
 | Project | Type | Tools | Repo |
 |---|---|---|---|
-| Smart Home Installation Analytics Pipeline | Data Analytics · BI | Excel · Python · Power BI | [↗](https://github.com/HaneenAyman23/smart-home-project) |
-| Smart Home E-commerce Website | Web Development | HTML5 · CSS3 · Bootstrap 5 · JS | [↗](https://github.com/HaneenAyman23/web-design-course-project) |
-| Diagnostic Analytics — Course Project | Data Analytics · EDA | Python · pandas · seaborn | [↗](https://github.com/HaneenAyman23/data-analytics-course-Project) |
+| Smart Home Installation Analytics Pipeline | Data Analytics · BI | Excel · Python · Power BI | [Visit↗](https://github.com/HaneenAyman23/smart-home-project) |
+| Smart Home E-commerce Website | Web Development | HTML5 · CSS3 · Bootstrap 5 · JS | [Visit↗](https://github.com/HaneenAyman23/web-design-course-project) |
+| Diagnostic Analytics — Course Project | Data Analytics · EDA | Python · pandas · seaborn | [Visit↗](https://github.com/HaneenAyman23/data-analytics-course-Project) |
 
 
 ---
