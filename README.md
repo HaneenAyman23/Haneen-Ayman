@@ -68,11 +68,12 @@ Developed a business and marketing plan for smart home solutions expansion. Cond
 | Certificate | Issuer | Year | Link |
 |---|---|---|---|
 | Certified Innovation Leader (CIL) | Arizona State University | 2024 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Arizona%20Innovation%20Certificate.pdf) |
-| AI Fluency Certificate | Anthropic | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/AI%20Fluency%20Certficate.pdf) |
-| Claude 101 | Anthropic | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Claude%20101%20Certficate.pdf) |
+| AI Fluency Certificate | Anthropic | May 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/AI%20Fluency%20Certficate.pdf) |
+| Claude 101 | Anthropic | May 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Claude%20101%20Certficate.pdf) |
 | Claude Code 101 | Anthropic | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Claude%20code%20101%20Certificate.pdf) |
-| Introduction to Model Context Protocol (MCP) | Anthropic | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Introduction%20to%20MCP.pdf) |
-| Introduction to MS Excel | Microsoft | 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Introduction%20to%20MS%20Excel%20Certficate.pdf) |
+| Introduction to Model Context Protocol (MCP) | Anthropic | May 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Introduction%20to%20MCP.pdf) |
+| Introduction to MS Excel | Microsoft | May 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Introduction%20to%20MS%20Excel%20Certficate.pdf) |
+| Google Analytics | Google | June 2026 | [View ↗](https://github.com/haneenayman66666-max/Profile-1/blob/main/Google%20Analytics%20Certificate.png) |
 
 ---
 
