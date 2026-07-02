@@ -5,8 +5,8 @@
 
 <br/>
 
-*Turning data into decisions and systems into strategy —*  
-*specialized in data analytics and ERP systems.*
+*Turning data into decisions and systems into strategy —*
+*Data Analyst · Business Intelligence & Analytics · Python & Power BI · Project & Talent Coordination.*
 
 <br/>
 
@@ -23,32 +23,26 @@
 
 **Member** · TechTalk
 *June 2026 – Present*
-
 Active member of a global tech career community (400,000+ members). Engage in career development, data analytics, BIS, ERP, and AI discussions while staying current on emerging ERP, BI, and AI trends.
 
 **Talent Management Vice Head — Recruitment** · Galala Rally Society
 *January 2025 – Present*
-
 Led end-to-end recruitment campaigns — candidate sourcing, screening, interview coordination, and onboarding — building a structured applicant tracking workflow and mentoring 10+ HR team members across multiple intake cycles.
 
 **Agritech Solution Creator and Developer** · Freelance · New Cairo, Egypt
 *June 2025 – November 2025*
-
 Co-originated a smart agriculture solution integrating IoT sensors and precision agriculture tools, then built a phased pilot-to-deployment roadmap. Submitted the proposal to KPMG's innovation program.
 
 **Volunteer** · AIESEC
 *May 2024 – September 2025*
-
 Contributed to global leadership development initiatives and cross-cultural exchange programmes within the world's largest youth-run organization (100+ countries).
 
 **Content Creator Assistant** · GU Media, Galala University
 *September 2024 – June 2025*
-
 Produced digital content and led multi-platform event promotion campaigns across university media channels.
 
 **Smart Home Solutions Project Coordinator** · EL Halim Company
 *September 2023 – June 2024*
-
 Originated and pitched a home-to-smart-home conversion concept, secured client approval, and coordinated design and deployment of AI-powered smart home systems. Conducted feasibility studies and cost estimates for fiber optic infrastructure.
 
 ---
@@ -57,10 +51,13 @@ Originated and pitched a home-to-smart-home conversion concept, secured client a
 
 | Project | Type | Tools | Repo |
 |---|---|---|---|
+| Telco Customer Analytics | Data Analytics · Excel | Excel | [Visit↗](https://github.com/HaneenAyman23/telco-customer-analytics-excel) |
 | Smart Home Installation Analytics Pipeline | Data Analytics · BI | Excel · Python · Power BI | [Visit↗](https://github.com/HaneenAyman23/smart-home-project) |
 | Retail Sales BI & ML Analysis | Business Intelligence · ML | Power BI · RapidMiner | [Visit↗](https://github.com/HaneenAyman23/BI-course-project) |
 | Smart Home E-commerce Website | Web Development | HTML5 · CSS3 · Bootstrap 5 · JS | [Visit↗](https://github.com/HaneenAyman23/web-design-course-project) |
 | Behavioral Pattern Analysis — Diagnostic Analytics | Data Analytics · EDA | Python · pandas · seaborn | [Visit↗](https://github.com/HaneenAyman23/data-analytics-course-Project) |
+
+**Telco Customer Analytics:** End-to-end Excel analytics on 7,043 telecom customer records — nested-IF churn risk segmentation, an INDEX/MATCH customer lookup tool, and a live 7-KPI dashboard, all fully formula-driven with no hardcoded values.
 
 ---
 
