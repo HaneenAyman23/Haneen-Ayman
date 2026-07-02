@@ -5,8 +5,8 @@
 
 <br/>
 
-*Turning data into decisions and systems into strategy —*
-*Data Analyst · Business Intelligence & Analytics · Python & Power BI · Project & Talent Coordination.*
+*Turning data into decisions and systems into strategy —*  
+*specialized in data analytics and ERP systems.*
 
 <br/>
 
