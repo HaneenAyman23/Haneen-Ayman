@@ -75,19 +75,16 @@ Originated and pitched a home-to-smart-home conversion concept, secured client a
 ## ✦ Skills
 
 **Data Analytics**
-`Python (pandas, matplotlib, seaborn)` `Power BI` `RapidMiner` `SQL` `Microsoft Excel` `Google Sheets` `Data Visualization` `BI Reporting` `Statistical Analysis` `EDA` `Diagnostic & Predictive Analytics`
+`Python (pandas, matplotlib, seaborn)` `Power BI` `RapidMiner` `SQL` `Microsoft Excel` `Google Sheets` `Data Visualization` `Statistical Analysis` `EDA` `Diagnostic & Predictive Analytics`
 
 **Business & Project Management**
-`Project Planning` `Event Management` `Feasibility Studies` `Stakeholder Management` `Business Analysis` `Process Improvement` `Cost Estimation` `Workflow Design`
-
-**Talent Management & HR**
-`Recruitment Strategy` `Applicant Tracking` `Candidate Screening` `Onboarding` `HR Workflow Design` `Interview Coordination` `Talent Pipeline Management`
+`Project Planning & Coordination` `Feasibility Studies` `Cost Estimation` `Stakeholder Management` `Business Analysis` `Process Improvement` `Event Management` `Team Leadership` `Workflow Design` `Recruitment Strategy` `Applicant Tracking` `Candidate Screening` `Onboarding` `Interview Coordination` `Talent Pipeline Management`
 
 **Web Development**
-`HTML` `CSS` `JavaScript` `Bootstrap` `GitHub` `VS Code` `Figma`
+`HTML` `CSS` `JavaScript` `Bootstrap` `GitHub` `VS Code`
 
-**Organizing Tools**
-`Notion` `Jira` `ClickUp` `Microsoft Planner` `Google Workspace` `Microsoft Office Suite`
+**Tools**
+`Notion` `Jira` `ClickUp` `Microsoft Planner` `Google Workspace` `Microsoft Office Suite` `Figma`
 
 **Soft Skills**
 `Public Speaking` `Professional Writing` `Stakeholder Communication` `Team Facilitation` `Cross-Cultural Collaboration` `Critical Thinking` `Problem Solving` `Time Management`
